@@ -1,3 +1,3 @@
-# host-demo
+# fire-and-ice
 
-A demo of how to host webpages with gh-pages
+A site based on the poem Fire and Ice by Robert Frost
